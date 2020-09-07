@@ -13,12 +13,18 @@ header {
     font-family: 'Montserrat', sans-serif;/*comentario*/
     font-weight: 400;
 }
+header h1{
+    display: flex;
+}
 header span {
     font-weight: 200;
 }
 header a {
     color: #FFFFFF;
     text-decoration: none;
+}
+header ul {
+    display: flex;
 }
 header li {
     display: inherit;
