@@ -31,7 +31,6 @@ header h1 {
 }
 header li {
     display: inline-flex;
-    flex: 1;
     margin: 0;
     padding: .6em;
 
