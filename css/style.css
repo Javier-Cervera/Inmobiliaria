@@ -24,8 +24,8 @@ header ul {
 }
 header li {
     flex: 1;
-    margin: 0;
-    padding: .4em;
+    margin: 0 1em;
+    padding: .25em;
     text-align: center;
     list-style-type: none;
 /*    border: 1px solid #fff;*/
@@ -36,4 +36,7 @@ header a {
 }
 header img {
     height: 2.4em;
+}
+.nomargin {
+    margin: 0;
 }
